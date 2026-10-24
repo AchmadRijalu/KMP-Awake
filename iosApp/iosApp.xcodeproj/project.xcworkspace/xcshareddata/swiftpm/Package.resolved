@@ -1,0 +1,15 @@
+{
+  "originHash" : "8ff40f8eaf1816a67350878fafbcc59ff6f91cc39372c6a24a186669ae3c8e7a",
+  "pins" : [
+    {
+      "identity" : "arax-ui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AchmadRijalu/Arax-ui",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e3806d69d6ba5bc4afb22fdc2f474837ac31dc11"
+      }
+    }
+  ],
+  "version" : 3
+}
